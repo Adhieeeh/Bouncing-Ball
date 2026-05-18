@@ -5,3 +5,5 @@ This script shows the simulation of few balls bouncing in a container under grav
 Prerequisites
 The script runs in python3. pygame module is needed
 
+pip3 install requirements.txt
+
