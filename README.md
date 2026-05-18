@@ -7,3 +7,6 @@ The script runs in python3. pygame module is needed
 
 pip3 install requirements.txt
 
+How to run the script
+Navigate to the folder where the source code is written. Open a terminal and execute the command:
+
