@@ -1,5 +1,6 @@
 ## Bouncing ball simulator
 
+made with python 
 This script shows the simulation of few balls bouncing in a container under gravity. They also collide with the bottom part and the walls of the container.
 
 Prerequisites
@@ -11,3 +12,6 @@ How to run the script
 Navigate to the folder where the source code is written. Open a terminal and execute the command:
 
 python3 ball_bounce.py
+
+
+
